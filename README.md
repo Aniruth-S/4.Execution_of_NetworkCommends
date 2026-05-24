@@ -30,7 +30,7 @@ This commands includes
 <BR>
 ## Program:
 **server**
-```
+```python
 import socket
 from pythonping import ping
 
@@ -57,7 +57,7 @@ while True:
         c.send("Not Found".encode())
 ```
 **client**
-```
+```python
 import socket
 
 s = socket.socket()
