@@ -73,9 +73,11 @@ while True:
 ```
 ## Output
 **server side**
+
 <img width="720" height="393" alt="{0ABAE3B5-8B1B-4B7E-8402-9ABEDC9E231D}" src="https://github.com/user-attachments/assets/42c49a9e-8ca1-4560-9a27-723ab6ba1161" />
-<br>
+
 **client side**
+
 <img width="784" height="654" alt="{62680390-FA13-4D0A-84F9-AEE5F83A8001}" src="https://github.com/user-attachments/assets/b6537969-6320-4612-8ed9-fda2aeacf8c4" />
 
 ## Result
